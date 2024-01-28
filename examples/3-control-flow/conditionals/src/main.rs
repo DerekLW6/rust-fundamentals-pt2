@@ -1,5 +1,5 @@
-fn main() {
-    let proceed = false;
+ fn main() {
+    let proceed =  ;
     if proceed {
         println!("Proceeding");
     } else {
