@@ -6,6 +6,7 @@ fn main() {
     io::stdin().read_line(&mut name).expect("Failed to read input");
 
     // use of match expression to pattern match against variable "name"
+    // match is kinda like case 
     match name.trim() {
         "Good Bye" => println!("Sorry to see you go."),
         "Hello" => println!("Hi, nice to meet you!"),
