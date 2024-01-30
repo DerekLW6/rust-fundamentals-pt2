@@ -1,4 +1,4 @@
-use std::io;
+use std::io; // Import the io library
 
 // This example is a useful application of `while` because it allows to continue
 // asking for user input until the user types a specific word (in this case,

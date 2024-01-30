@@ -4,7 +4,7 @@ fn main() {
     //     println!("i = {}", i);
     // }
 
-    // for i in (1..=5).rev() {
+    // for i in (1..=5).rev() { // this is a reverse range
     //     println!("{}", i);
     // }
     
