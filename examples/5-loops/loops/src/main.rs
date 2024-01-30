@@ -2,7 +2,7 @@
 // or if the condition is met in the middle of the loop
 // It is also useful when you want to loop without knowing exactly when to stop
 
-fn main() {
+fn main() { 
     let mut x = 1;
     // continue looping until x > 5
     loop {
